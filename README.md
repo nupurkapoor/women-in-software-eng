@@ -33,7 +33,4 @@ Where `SS_KEY` is the key found in a Google Docs spreadsheet URL:
 
 Questions / Comments / Concerns?
 --------------------------------
-Please reach out to me on Twitter at <a
-href="https://twitter.com/triketora">@triketora</a> or email me at
-tracy at pinterest.com. Feedback on anything big or small is very
-welcome :)
+The repo is forked from [triketora's](https://github.com/triketora) account. To contact, reach out to her on Twitter at <a href="https://twitter.com/triketora">@triketora</a> or email me at tracy at pinterest.com.
